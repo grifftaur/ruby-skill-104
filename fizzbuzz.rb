@@ -13,3 +13,5 @@ loop_range.each do |number|
        puts "#{number}"
     end
 end
+
+#This is an awesome loop to use for fizzbuzz
